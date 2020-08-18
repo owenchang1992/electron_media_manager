@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/owenchang1992/electron_media_manager/issues"
   },
-  "homepage": "https://github.com/owenchang1992/electron_media_manager#readme"
+  "homepage": "https://github.com/owenchang1992/electron_media_manager#readme",
+  "devDependencies": {
+    "webpack": "^4.44.1"
+  }
 }
